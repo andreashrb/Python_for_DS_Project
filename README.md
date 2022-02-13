@@ -1,1 +1,1 @@
-# This is our project folder for the HDM module "Python for Data Science"
+# This is our project folder of the HDM module "Python for Data Science"
