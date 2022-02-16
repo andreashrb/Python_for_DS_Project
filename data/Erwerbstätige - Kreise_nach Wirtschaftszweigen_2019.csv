@@ -1,0 +1,558 @@
+GENESIS-Tabelle: 13312-01-05-4
+Erwerbstätige nach Wirtschaftszweigen - Jahresdurchschnitt -;;;;;;;;;;
+regionale Tiefe: Kreise und krfr. Städte;;;;;;;;;;
+Erwerbstätigenrechnung des Bundes und der Länder;;;;;;;;;;
+;;;Erwerbstätige im Jahresdurchschnitt;Erwerbstätige im Jahresdurchschnitt;Erwerbstätige im Jahresdurchschnitt;Erwerbstätige im Jahresdurchschnitt;Erwerbstätige im Jahresdurchschnitt;Erwerbstätige im Jahresdurchschnitt;Erwerbstätige im Jahresdurchschnitt;Erwerbstätige im Jahresdurchschnitt
+;;;Insgesamt;Land- und Forstwirtschaft, Fischerei (A);Produzierendes Gewerbe ohne Baugewerbe (B-E);Verarbeitendes Gewerbe (C);Baugewerbe (F);Handel,Verkehr,Gastgewerbe,Informa-/Kommunikation;Fin-,Vers.-,Unt.-dienstl.,Grundst.-/Wohnungswesen;öffentl. u. sonst. Dienstl.,Erziehung, Gesundheit
+;;;1000;1000;1000;1000;1000;1000;1000;1000
+2019;DG;Deutschland;45269,0;599,0;8360,0;7758,0;2552,0;11632,0;7778,0;14348,0
+2019;01;  Schleswig-Holstein;1433,9;32,2;191,9;172,6;93,3;395,1;214,3;507,1
+2019;01001;      Flensburg, kreisfreie Stadt;61,7;0,0;7,3;6,0;1,5;17,5;9,6;25,8
+2019;01002;      Kiel, Landeshauptstadt, kreisfreie Stadt;174,7;0,1;16,2;14,6;5,4;40,0;36,1;76,9
+2019;01003;      Lübeck, Hansestadt, kreisfreie Stadt;133,6;0,3;19,6;17,9;6,1;34,5;24,5;48,7
+2019;01004;      Neumünster, kreisfreie Stadt;54,8;0,4;6,7;6,0;3,4;16,8;10,9;16,6
+2019;01051;      Dithmarschen, Landkreis;62,7;3,6;8,8;8,0;5,4;16,5;6,5;22,0
+2019;01053;      Herzogtum Lauenburg, Landkreis;71,4;2,0;10,0;8,7;5,4;17,9;10,3;25,8
+2019;01054;      Nordfriesland, Landkreis;92,6;3,7;8,4;7,3;7,9;28,0;11,0;33,5
+2019;01055;      Ostholstein, Landkreis;92,8;2,1;9,6;8,2;5,7;29,0;11,0;35,4
+2019;01056;      Pinneberg, Landkreis;132,2;3,0;24,0;22,0;9,3;39,0;19,7;37,2
+2019;01057;      Plön, Landkreis;45,1;1,9;4,7;4,2;4,2;11,4;5,8;17,3
+2019;01058;      Rendsburg-Eckernförde, Landkreis;122,0;4,3;14,1;11,8;9,9;29,9;15,7;48,1
+2019;01059;      Schleswig-Flensburg, Landkreis;85,9;4,1;9,2;8,0;7,8;24,0;9,6;31,2
+2019;01060;      Segeberg, Landkreis;128,2;2,6;22,4;21,0;9,3;40,0;17,7;36,2
+2019;01061;      Steinburg, Landkreis;57,6;2,5;9,2;8,1;4,3;12,5;8,1;21,1
+2019;01062;      Stormarn, Landkreis;118,7;1,6;21,8;20,9;7,9;38,1;17,9;31,4
+2019;02;  Hamburg;1292,3;2,4;119,9;104,9;41,3;422,5;322,7;383,5
+2019;03;  Niedersachsen;4153,3;101,5;736,2;678,4;253,5;1056,8;629,3;1375,9
+2019;031;    Braunschweig, Stat. Region;838,7;10,2;203,3;190,3;37,2;183,6;130,3;274,0
+2019;03101;      Braunschweig, kreisfreie Stadt;169,6;0,2;24,9;22,9;5,9;41,6;41,2;55,9
+2019;03102;      Salzgitter, kreisfreie Stadt;58,3;0,2;25,9;24,4;2,1;10,6;5,4;14,0
+2019;03103;      Wolfsburg, kreisfreie Stadt;132,7;0,2;70,5;69,5;2,4;18,7;20,2;20,6
+2019;03151;      Gifhorn, Landkreis;59,8;1,8;7,6;7,1;4,8;12,9;11,6;21,1
+2019;03152;      Göttingen, Landkreis;-;-;-;-;-;-;-;-
+2019;03153;      Goslar, Landkreis;63,1;0,7;10,7;9,3;3,2;17,0;7,9;23,5
+2019;03154;      Helmstedt, Landkreis;30,8;1,1;4,3;3,4;1,9;7,2;3,7;12,5
+2019;03155;      Northeim, Landkreis;61,7;2,7;16,2;15,6;3,5;13,5;6,2;19,6
+2019;03156;      Osterode am Harz, Landkreis;-;-;-;-;-;-;-;-
+2019;03157;      Peine, Landkreis;46,5;0,8;8,9;6,7;3,0;12,8;5,6;15,5
+2019;03158;      Wolfenbüttel, Landkreis;37,4;0,9;5,4;4,4;2,7;7,8;4,5;16,1
+2019;03159;      Göttingen, Landkreis;178,8;1,6;28,9;27,1;7,7;41,6;24,0;75,1
+2019;032;    Hannover, Stat. Region;1155,8;15,1;173,6;157,3;60,4;305,6;200,3;400,8
+2019;03241;      Region Hannover, Landkreis;696,5;3,6;84,2;74,4;31,4;192,1;141,2;244,1
+2019;03241001;      Hannover, Landeshauptstadt;430,9;0,2;50,2;43,2;12,3;101,8;101,4;165,1
+2019;03251;      Diepholz, Landkreis;103,6;5,2;19,1;17,5;7,4;31,5;12,8;27,6
+2019;03252;      Hameln-Pyrmont, Landkreis;71,2;1,2;13,3;12,2;4,1;15,6;11,2;25,8
+2019;03254;      Hildesheim, Landkreis;128,9;1,3;24,5;22,9;7,3;29,8;17,6;48,4
+2019;03255;      Holzminden, Landkreis;31,4;0,5;10,1;9,6;1,8;6,6;3,1;9,2
+2019;03256;      Nienburg (Weser), Landkreis;58,6;2,5;11,2;10,2;4,5;13,6;6,6;20,2
+2019;03257;      Schaumburg, Landkreis;65,6;0,9;11,1;10,5;3,9;16,4;7,8;25,5
+2019;033;    Lüneburg, Stat. Region;760,5;29,5;102,3;93,4;56,9;208,3;97,5;266,0
+2019;03351;      Celle, Landkreis;82,9;1,7;14,9;12,8;5,3;18,6;9,4;33,0
+2019;03352;      Cuxhaven, Landkreis;74,9;4,3;8,5;7,7;6,3;20,5;8,2;27,1
+2019;03353;      Harburg, Landkreis;99,7;3,2;8,9;8,2;8,6;34,2;15,2;29,6
+2019;03354;      Lüchow-Dannenberg, Landkreis;21,0;1,3;3,8;3,6;1,3;4,9;2,1;7,6
+2019;03355;      Lüneburg, Landkreis;86,2;2,1;10,6;9,7;4,9;21,8;12,9;33,9
+2019;03356;      Osterholz, Landkreis;40,8;1,2;5,0;4,6;3,1;12,1;4,8;14,5
+2019;03357;      Rotenburg (Wümme), Landkreis;83,2;4,0;10,6;9,7;7,2;23,0;9,4;29,1
+2019;03358;      Heidekreis, Landkreis;72,4;2,3;9,6;8,6;4,9;19,1;7,6;28,9
+2019;03359;      Stade, Landkreis;91,7;5,2;12,6;11,6;7,5;25,1;14,7;26,5
+2019;03360;      Uelzen, Landkreis;42,4;2,2;4,9;4,7;2,9;10,3;4,5;17,6
+2019;03361;      Verden, Landkreis;65,2;2,0;12,8;12,2;4,9;18,7;8,7;18,1
+2019;034;    Weser-Ems, Stat. Region;1398,2;46,7;257,0;237,5;99,0;359,2;201,1;435,2
+2019;03401;      Delmenhorst, kreisfreie Stadt;32,2;0,1;4,1;3,7;1,9;8,4;5,6;12,1
+2019;03402;      Emden, kreisfreie Stadt;41,7;0,1;12,7;12,3;1,6;11,7;5,0;10,5
+2019;03403;      Oldenburg (Oldenburg), kreisfreie Stadt;119,3;0,2;7,5;5,5;4,5;31,8;24,2;51,1
+2019;03404;      Osnabrück, kreisfreie Stadt;132,1;0,1;14,5;12,7;5,8;35,1;28,9;47,7
+2019;03405;      Wilhelmshaven, kreisfreie Stadt;46,7;0,1;4,7;3,6;2,0;10,1;6,1;23,7
+2019;03451;      Ammerland, Landkreis;62,4;3,9;9,9;9,5;5,5;18,9;6,5;17,8
+2019;03452;      Aurich, Landkreis;86,0;2,7;10,1;9,1;6,8;25,0;12,4;28,9
+2019;03453;      Cloppenburg, Landkreis;96,1;7,4;24,0;22,9;9,0;21,1;12,0;22,5
+2019;03454;      Emsland, Landkreis;194,5;8,2;45,8;42,7;17,5;45,0;24,3;53,7
+2019;03455;      Friesland, Landkreis;43,2;1,4;6,0;5,6;2,7;11,6;6,2;15,4
+2019;03456;      Grafschaft Bentheim, Landkreis;73,2;2,5;15,4;13,3;5,7;19,7;9,2;20,6
+2019;03457;      Leer, Landkreis;72,0;2,1;7,9;7,0;6,0;20,7;10,8;24,5
+2019;03458;      Oldenburg, Landkreis;54,5;2,7;9,9;9,4;5,0;14,5;6,3;16,1
+2019;03459;      Osnabrück, Landkreis;178,3;6,1;43,5;41,3;12,9;44,9;25,1;45,8
+2019;03460;      Vechta, Landkreis;99,9;6,4;26,8;25,8;7,3;23,4;11,7;24,4
+2019;03461;      Wesermarsch, Landkreis;40,9;1,5;12,3;11,3;2,9;9,2;3,9;11,1
+2019;03462;      Wittmund, Landkreis;25,4;1,2;2,2;1,9;2,1;8,1;2,7;9,2
+2019;04;  Bremen;437,8;0,4;66,0;60,3;15,9;126,8;87,2;141,4
+2019;04011;      Bremen, kreisfreie Stadt;374,4;0,4;57,5;52,6;13,3;111,5;76,0;115,8
+2019;04012;      Bremerhaven, kreisfreie Stadt;63,4;0,0;8,5;7,7;2,6;15,3;11,2;25,7
+2019;05;  Nordrhein-Westfalen;9648,9;80,4;1681,0;1533,7;473,3;2511,1;1736,6;3166,5
+2019;051;    Düsseldorf, Regierungsbezirk;2830,5;20,2;423,2;375,6;133,7;781,9;587,8;883,7
+2019;05111;      Düsseldorf, kreisfreie Stadt;550,8;0,7;42,4;36,6;14,2;163,9;167,6;161,9
+2019;05112;      Duisburg, kreisfreie Stadt;233,4;0,2;41,1;36,2;10,7;59,8;47,7;74,0
+2019;05113;      Essen, kreisfreie Stadt;339,2;0,3;30,6;20,3;15,8;85,8;87,6;119,1
+2019;05114;      Krefeld, kreisfreie Stadt;125,8;0,6;27,1;24,9;5,0;32,7;21,1;39,3
+2019;05116;      Mönchengladbach, kreisfreie Stadt;138,0;0,4;19,0;17,3;6,9;39,4;27,1;45,2
+2019;05117;      Mülheim an der Ruhr, kreisfreie Stadt;80,1;0,2;14,0;12,9;5,0;19,6;16,6;24,7
+2019;05119;      Oberhausen, kreisfreie Stadt;92,7;0,1;10,5;9,3;7,2;24,7;19,3;30,9
+2019;05120;      Remscheid, kreisfreie Stadt;61,6;0,1;18,7;18,0;2,9;12,1;11,2;16,6
+2019;05122;      Solingen, kreisfreie Stadt;74,7;0,1;19,2;17,7;3,2;17,1;11,0;24,2
+2019;05124;      Wuppertal, kreisfreie Stadt;175,3;0,1;33,5;31,4;6,9;41,5;30,8;62,5
+2019;05154;      Kleve, Kreis;151,1;8,0;20,5;19,2;10,9;40,0;20,8;51,0
+2019;05158;      Mettmann, Kreis;258,5;0,9;54,7;52,3;13,4;83,0;41,8;64,8
+2019;05162;      Rhein-Kreis Neuss;208,4;2,3;37,2;30,9;10,2;64,5;34,0;60,2
+2019;05166;      Viersen, Kreis;136,2;3,4;23,0;21,0;8,9;41,1;19,9;39,9
+2019;05170;      Wesel, Kreis;204,7;2,8;31,7;27,6;12,6;56,8;31,3;69,4
+2019;053;    Köln, Regierungsbezirk;2467,7;15,0;332,9;296,5;110,3;654,1;506,0;849,3
+2019;05314;      Bonn, kreisfreie Stadt;254,9;0,2;10,7;9,5;5,1;63,1;50,7;125,2
+2019;05315;      Köln, kreisfreie Stadt;787,5;0,4;69,3;59,9;23,6;231,0;214,7;248,4
+2019;05316;      Leverkusen, kreisfreie Stadt;83,6;0,1;19,6;16,4;3,7;23,7;11,3;25,2
+2019;05334;      Städteregion Aachen (einschl. Stadt Aachen);308,4;1,0;48,2;44,4;13,4;78,3;52,7;114,9
+2019;05334002;      Aachen, krfr. Stadt;.;.;.;.;.;.;.;.
+2019;05354;      Aachen, Kreis;-;-;-;-;-;-;-;-
+2019;05358;      Düren, Kreis;123,7;1,9;23,4;19,4;7,7;24,0;27,9;38,8
+2019;05362;      Rhein-Erft-Kreis;203,8;1,9;30,1;23,6;11,6;64,4;35,6;60,2
+2019;05366;      Euskirchen, Kreis;85,7;1,8;13,9;12,9;5,6;22,2;11,0;31,2
+2019;05370;      Heinsberg, Kreis;109,4;2,0;18,6;16,8;8,8;28,3;15,0;36,7
+2019;05374;      Oberbergischer Kreis;145,7;1,5;44,5;42,6;7,0;27,7;25,3;39,7
+2019;05378;      Rheinisch-Bergischer Kreis;115,5;0,8;18,0;17,2;7,0;27,4;19,5;42,8
+2019;05382;      Rhein-Sieg-Kreis;249,4;3,5;36,6;33,7;16,8;64,0;42,2;86,2
+2019;055;    Münster, Regierungsbezirk;1334,6;21,6;231,5;208,6;80,1;337,7;202,1;461,7
+2019;05512;      Bottrop, kreisfreie Stadt;47,7;0,5;6,4;5,0;3,9;11,6;7,0;18,3
+2019;05513;      Gelsenkirchen, kreisfreie Stadt;116,9;0,1;14,1;10,5;6,3;26,9;23,4;46,1
+2019;05515;      Münster, kreisfreie Stadt;235,0;1,1;16,5;14,1;6,5;59,8;48,2;102,8
+2019;05554;      Borken, Kreis;214,0;5,5;54,4;51,7;18,5;53,8;25,4;56,5
+2019;05558;      Coesfeld, Kreis;103,1;3,4;19,4;18,3;6,5;26,1;13,1;34,5
+2019;05562;      Recklinghausen, Kreis;252,9;1,9;35,4;27,7;16,2;64,4;39,1;95,8
+2019;05566;      Steinfurt, Kreis;229,7;5,0;49,0;46,1;14,7;65,0;28,4;67,6
+2019;05570;      Warendorf, Kreis;135,3;4,0;36,2;35,3;7,5;30,1;17,5;40,0
+2019;057;    Detmold, Regierungsbezirk;1144,7;12,8;281,4;269,5;57,2;278,4;158,2;356,7
+2019;05711;      Bielefeld, kreisfreie Stadt;215,6;0,6;31,0;28,1;6,6;58,3;37,2;81,9
+2019;05754;      Gütersloh, Kreis;232,8;3,0;79,5;77,8;12,0;57,2;32,4;48,6
+2019;05758;      Herford, Kreis;128,4;1,0;39,9;38,1;7,2;30,9;15,5;33,9
+2019;05762;      Höxter, Kreis;65,2;1,9;13,6;12,9;4,5;15,6;6,5;23,1
+2019;05766;      Lippe, Kreis;162,8;1,8;40,4;38,8;8,8;35,2;19,4;57,1
+2019;05770;      Minden-Lübbecke, Kreis;172,6;2,1;41,4;39,4;9,1;38,7;24,2;57,1
+2019;05774;      Paderborn, Kreis;167,5;2,4;35,5;34,3;9,0;42,4;23,1;55,1
+2019;059;    Arnsberg, Regierungsbezirk;1871,5;10,8;412,0;383,4;92,0;459,0;282,5;615,2
+2019;05911;      Bochum, kreisfreie Stadt;191,2;0,1;20,4;17,8;8,6;48,0;34,0;80,2
+2019;05913;      Dortmund, kreisfreie Stadt;333,2;0,3;32,8;26,7;15,2;94,0;72,8;118,0
+2019;05914;      Hagen, kreisfreie Stadt;98,3;0,1;18,7;17,1;4,0;25,0;15,4;35,1
+2019;05915;      Hamm, kreisfreie Stadt;84,3;0,3;11,8;10,7;5,1;23,5;12,3;31,3
+2019;05916;      Herne, kreisfreie Stadt;63,4;0,0;9,1;5,9;4,7;15,9;7,7;25,9
+2019;05954;      Ennepe-Ruhr-Kreis;150,1;0,6;39,1;37,4;6,7;33,7;20,2;49,7
+2019;05958;      Hochsauerlandkreis;151,6;2,4;42,3;40,3;8,8;33,6;18,7;45,8
+2019;05962;      Märkischer Kreis;219,4;1,2;84,8;82,4;8,9;42,4;26,1;56,0
+2019;05966;      Olpe, Kreis;80,6;0,8;32,8;32,0;3,9;14,7;8,8;19,6
+2019;05970;      Siegen-Wittgenstein, Kreis;160,2;0,9;46,2;44,8;8,8;37,5;19,7;47,1
+2019;05974;      Soest, Kreis;157,0;3,0;40,1;38,5;8,5;36,8;19,5;49,3
+2019;05978;      Unna, Kreis;182,3;1,1;34,0;29,7;8,7;53,9;27,3;57,3
+2019;06;  Hessen;3528,6;26,8;546,0;503,6;190,3;978,2;730,0;1057,4
+2019;064;    Darmstadt, Regierungsbezirk;2342,6;13,2;293,7;265,6;121,5;688,7;573,0;652,7
+2019;06411;      Darmstadt, kreisfreie Stadt;138,2;0,3;23,7;21,6;2,9;35,9;26,0;49,4
+2019;06412;      Frankfurt am Main, kreisfreie Stadt;739,5;0,4;51,9;43,5;23,9;233,7;251,9;177,6
+2019;06413;      Offenbach am Main, kreisfreie Stadt;67,6;0,0;6,2;5,4;4,9;17,2;16,0;23,3
+2019;06414;      Wiesbaden, Landeshauptstadt, kreisfreie Stadt;190,2;0,4;18,4;15,8;7,2;43,7;44,8;75,7
+2019;06431;      Bergstraße, Landkreis;112,4;1,8;20,4;18,2;9,0;31,0;16,5;33,8
+2019;06432;      Darmstadt-Dieburg, Landkreis;112,5;2,2;20,8;19,9;8,8;31,6;18,6;30,5
+2019;06433;      Groß-Gerau, Landkreis;129,5;1,2;26,3;24,2;8,4;45,3;20,0;28,4
+2019;06434;      Hochtaunuskreis;127,1;0,5;14,2;13,3;5,5;34,9;34,2;37,7
+2019;06435;      Main-Kinzig-Kreis;190,4;1,4;36,8;34,4;14,1;50,3;37,4;50,4
+2019;06436;      Main-Taunus-Kreis;132,3;0,6;10,9;9,8;6,5;45,3;34,5;34,5
+2019;06437;      Odenwaldkreis;39,9;0,7;10,4;10,0;3,0;8,0;5,9;11,9
+2019;06438;      Offenbach, Landkreis;169,9;0,6;22,8;21,4;13,2;60,2;37,1;36,0
+2019;06439;      Rheingau-Taunus-Kreis;68,7;1,6;10,7;9,8;4,8;17,8;10,9;23,0
+2019;06440;      Wetteraukreis;124,5;1,6;20,3;18,2;9,4;33,7;19,1;40,4
+2019;065;    Gießen, Regierungsbezirk;527,2;4,6;117,2;111,1;31,6;121,9;67,4;184,6
+2019;06531;      Gießen, Landkreis;142,3;0,8;22,1;20,5;7,0;37,5;19,0;55,8
+2019;06532;      Lahn-Dill-Kreis;129,1;0,6;37,7;36,4;7,1;29,5;17,4;36,8
+2019;06533;      Limburg-Weilburg, Landkreis;79,5;0,8;13,0;12,0;8,1;19,9;11,6;26,3
+2019;06534;      Marburg-Biedenkopf, Landkreis;129,7;1,0;33,9;32,4;5,8;23,9;15,3;49,9
+2019;06535;      Vogelsbergkreis;46,5;1,3;10,5;10,0;3,6;11,0;4,3;15,8
+2019;066;    Kassel, Regierungsbezirk;658,8;9,0;135,1;126,9;37,3;167,7;89,6;220,1
+2019;06611;      Kassel, kreisfreie Stadt;154,8;0,4;19,5;16,5;5,5;36,8;30,5;62,2
+2019;06631;      Fulda, Landkreis;129,7;1,6;25,8;24,7;9,0;35,5;19,4;38,2
+2019;06632;      Hersfeld-Rotenburg, Landkreis;64,0;0,9;11,6;10,8;4,7;22,3;6,6;17,9
+2019;06633;      Kassel, Landkreis;100,2;1,4;31,5;30,3;5,3;24,0;11,7;26,4
+2019;06634;      Schwalm-Eder-Kreis;80,1;1,6;16,7;15,9;4,5;20,6;9,5;27,1
+2019;06635;      Waldeck-Frankenberg, Landkreis;87,3;1,9;22,8;21,7;5,2;19,2;7,8;30,5
+2019;06636;      Werra-Meißner-Kreis;42,8;1,2;7,4;6,9;3,1;9,2;4,0;17,9
+2019;07;  Rheinland-Pfalz;2048,9;40,3;395,4;368,5;125,5;509,5;276,3;701,8
+2019;071;    Koblenz, Stat. Region;762,3;10,1;150,7;141,9;50,9;189,7;97,4;263,6
+2019;07111;      Koblenz, kreisfreie Stadt;108,8;0,2;10,0;8,8;3,0;28,0;19,8;47,8
+2019;07131;      Ahrweiler, Landkreis;55,5;1,3;8,8;8,5;4,3;16,2;6,3;18,5
+2019;07132;      Altenkirchen (Westerwald), Landkreis;56,6;0,7;17,1;16,6;4,2;12,6;6,1;16,0
+2019;07133;      Bad Kreuznach, Landkreis;73,8;1,8;13,5;12,7;4,7;17,8;9,2;26,9
+2019;07134;      Birkenfeld, Landkreis;39,2;0,4;8,8;8,1;2,7;7,9;4,0;15,4
+2019;07135;      Cochem-Zell, Landkreis;32,1;1,3;3,5;3,2;2,7;8,7;3,4;12,6
+2019;07137;      Mayen-Koblenz, Landkreis;98,5;1,1;20,7;19,0;6,1;27,4;12,2;30,9
+2019;07138;      Neuwied, Landkreis;87,3;0,8;21,3;20,1;6,1;20,0;11,4;27,6
+2019;07140;      Rhein-Hunsrück-Kreis;56,9;0,8;12,1;11,6;4,9;13,9;6,8;18,6
+2019;07141;      Rhein-Lahn-Kreis;51,6;0,7;9,6;9,2;3,3;12,0;5,2;20,9
+2019;07143;      Westerwaldkreis;102,0;0,8;25,4;24,1;9,0;25,2;13,1;28,4
+2019;072;    Trier, Stat. Region;260,7;7,6;50,6;46,6;17,3;65,4;28,0;91,9
+2019;07211;      Trier, kreisfreie Stadt;79,0;0,4;9,6;7,4;2,6;20,4;10,8;35,3
+2019;07231;      Bernkastel-Wittlich, Landkreis;58,6;2,5;15,2;14,7;4,4;13,4;5,8;17,2
+2019;07232;      Eifelkreis Bitburg-Prüm;42,2;1,8;10,6;10,1;3,5;10,1;3,9;12,3
+2019;07233;      Vulkaneifel, Landkreis;31,3;0,7;6,5;6,2;2,2;7,4;2,6;11,9
+2019;07235;      Trier-Saarburg, Landkreis;49,6;2,2;8,7;8,3;4,5;14,2;4,8;15,2
+2019;073;    Rheinhessen-Pfalz, Stat. Region;1025,9;22,7;194,1;179,9;57,4;254,4;151,0;346,3
+2019;07311;      Frankenthal (Pfalz), kreisfreie Stadt;24,7;0,3;5,1;4,7;1,2;7,8;2,7;7,7
+2019;07312;      Kaiserslautern, kreisfreie Stadt;72,6;0,1;10,9;9,8;2,4;17,8;13,4;28,1
+2019;07313;      Landau in der Pfalz, kreisfreie Stadt;33,9;0,3;3,8;3,4;1,3;8,8;5,6;14,0
+2019;07314;      Ludwigshafen am Rhein, kreisfreie Stadt;127,3;0,4;48,2;46,2;6,0;22,7;17,4;32,6
+2019;07315;      Mainz, kreisfreie Stadt;160,6;0,4;11,7;9,7;4,5;45,1;30,1;68,7
+2019;07316;      Neustadt an der Weinstraße, kreisfreie Stadt;28,4;0,7;2,2;1,9;1,7;7,5;4,4;11,8
+2019;07317;      Pirmasens, kreisfreie Stadt;27,0;0,1;5,3;4,9;1,3;6,6;4,0;9,7
+2019;07318;      Speyer, kreisfreie Stadt;39,4;0,0;6,1;5,7;1,4;9,3;6,7;15,8
+2019;07319;      Worms, kreisfreie Stadt;45,6;0,5;8,0;6,7;2,6;12,8;7,4;14,2
+2019;07320;      Zweibrücken, kreisfreie Stadt;23,0;0,1;6,1;5,7;0,8;5,5;2,8;7,6
+2019;07331;      Alzey-Worms, Landkreis;47,5;3,2;6,8;6,2;4,1;11,8;7,1;14,6
+2019;07332;      Bad Dürkheim, Landkreis;49,4;2,8;6,3;5,8;3,3;13,6;6,4;17,0
+2019;07333;      Donnersbergkreis;31,3;0,7;8,6;8,3;1,8;5,7;3,8;10,7
+2019;07334;      Germersheim, Landkreis;61,0;1,8;22,4;21,6;3,2;13,4;5,9;14,3
+2019;07335;      Kaiserslautern, Landkreis;35,3;0,5;5,2;4,4;3,5;9,1;3,6;13,4
+2019;07336;      Kusel, Landkreis;20,0;0,4;3,1;2,9;1,6;4,7;2,4;7,8
+2019;07337;      Südliche Weinstraße, Landkreis;46,7;2,9;8,9;8,6;3,0;10,3;6,1;15,4
+2019;07338;      Rhein-Pfalz-Kreis;46,1;3,9;5,8;4,7;4,9;12,2;6,9;12,4
+2019;07339;      Mainz-Bingen, Landkreis;81,9;2,9;15,0;14,2;6,0;22,3;12,2;23,5
+2019;07340;      Südwestpfalz, Landkreis;24,2;0,6;4,5;4,4;2,6;7,3;2,1;7,1
+2019;08;  Baden-Württemberg, Land;6385,5;71,3;1645,9;1577,5;336,9;1557,6;987,5;1786,2
+2019;081;    Stuttgart, Regierungsbezirk;2464,0;23,7;668,7;644,4;128,1;596,8;424,9;621,7
+2019;08111;      Stuttgart, Landeshauptstadt, Stadtkreis;546,2;0,9;89,4;83,7;18,9;121,6;146,7;168,6
+2019;08115;      Böblingen, Landkreis;233,2;0,8;84,9;83,6;9,5;58,7;33,7;45,6
+2019;08116;      Esslingen, Landkreis;291,5;1,7;78,1;75,5;15,5;81,1;49,8;65,3
+2019;08117;      Göppingen, Landkreis;122,7;1,0;36,5;35,4;10,6;27,7;14,7;32,2
+2019;08118;      Ludwigsburg, Landkreis;271,5;3,4;73,0;70,3;15,1;74,3;41,1;64,5
+2019;08119;      Rems-Murr-Kreis, Landkreis;209,2;2,3;55,2;53,5;14,0;48,8;33,6;55,2
+2019;08121;      Heilbronn, Universitätsstadt, Stadtkreis;97,9;0,7;14,5;12,6;4,2;27,3;19,6;31,6
+2019;08125;      Heilbronn, Landkreis;184,0;3,8;68,6;66,5;10,2;43,3;25,3;32,7
+2019;08126;      Hohenlohekreis, Landkreis;74,0;2,1;27,1;26,6;3,3;22,5;6,1;13,0
+2019;08127;      Schwäbisch Hall, Landkreis;114,9;2,5;38,4;37,1;8,3;23,3;16,3;26,2
+2019;08128;      Main-Tauber-Kreis, Landkreis;78,1;1,5;24,6;24,1;4,7;17,7;7,1;22,4
+2019;08135;      Heidenheim, Landkreis;68,3;0,8;22,1;21,2;3,0;15,6;10,1;16,7
+2019;08136;      Ostalbkreis, Landkreis;172,6;2,2;56,4;54,4;10,8;34,9;20,8;47,6
+2019;082;    Karlsruhe, Regierungsbezirk;1594,5;9,3;347,6;325,1;80,3;415,2;278,3;463,8
+2019;08211;      Baden-Baden, Stadtkreis;42,3;0,2;5,9;5,3;2,2;13,2;7,0;13,8
+2019;08212;      Karlsruhe, Stadtkreis;240,0;0,3;28,0;22,2;8,0;71,6;51,7;80,3
+2019;08215;      Karlsruhe, Landkreis;216,6;1,7;52,2;48,6;13,4;52,9;45,7;50,7
+2019;08216;      Rastatt, Landkreis;121,7;1,0;46,8;45,6;7,1;25,1;16,1;25,6
+2019;08221;      Heidelberg, Stadtkreis;124,5;0,3;10,9;9,8;2,6;27,3;23,1;60,4
+2019;08222;      Mannheim, Stadtkreis;242,4;0,3;47,0;42,5;11,6;61,9;56,8;64,9
+2019;08225;      Neckar-Odenwald-Kreis, Landkreis;67,7;1,1;20,1;19,2;4,3;13,5;5,9;22,9
+2019;08226;      Rhein-Neckar-Kreis, Landkreis;242,1;2,3;45,1;42,7;14,4;79,5;35,7;65,0
+2019;08231;      Pforzheim, Stadtkreis;77,9;0,2;17,2;16,4;3,3;20,5;12,2;24,5
+2019;08235;      Calw, Landkreis;68,1;0,6;16,0;15,4;4,8;16,5;7,2;22,9
+2019;08236;      Enzkreis, Landkreis;86,7;0,7;35,5;34,8;4,5;18,6;9,9;17,6
+2019;08237;      Freudenstadt, Landkreis;64,6;0,5;22,8;22,5;4,1;14,7;7,2;15,2
+2019;083;    Freiburg, Regierungsbezirk;1260,2;19,2;324,8;313,1;68,5;310,5;153,7;383,5
+2019;08311;      Freiburg im Breisgau, Stadtkreis;180,1;0,5;15,0;13,3;4,8;45,7;25,5;88,5
+2019;08315;      Breisgau-Hochschwarzwald, Landkreis;121,9;4,6;27,9;27,2;8,8;33,6;15,1;31,8
+2019;08316;      Emmendingen, Landkreis;77,4;1,9;21,6;21,1;5,7;16,6;9,0;22,6
+2019;08317;      Ortenaukreis, Landkreis;251,9;4,7;70,4;68,1;14,7;64,9;29,6;67,5
+2019;08325;      Rottweil, Landkreis;77,6;0,9;31,0;30,1;4,7;14,6;7,6;18,8
+2019;08326;      Schwarzwald-Baar-Kreis, Landkreis;123,4;1,1;40,8;40,1;6,3;25,5;15,9;33,8
+2019;08327;      Tuttlingen, Landkreis;90,3;0,5;45,1;44,4;4,1;14,4;9,7;16,5
+2019;08335;      Konstanz, Landkreis;148,9;2,2;27,9;26,4;7,0;42,3;19,9;49,5
+2019;08336;      Lörrach, Landkreis;109,7;1,5;26,1;24,8;5,9;31,4;13,4;31,3
+2019;08337;      Waldshut, Landkreis;79,1;1,3;18,9;17,7;6,4;21,5;7,8;23,3
+2019;084;    Tübingen, Regierungsbezirk;1066,7;19,0;304,8;294,9;60,0;235,1;130,5;317,2
+2019;08415;      Reutlingen, Landkreis;159,0;1,4;45,4;44,1;9,3;36,4;21,1;45,4
+2019;08416;      Tübingen, Landkreis;117,8;0,6;22,5;21,5;5,1;22,9;13,9;53,0
+2019;08417;      Zollernalbkreis, Landkreis;96,1;0,9;33,8;33,0;6,3;23,3;9,8;22,1
+2019;08421;      Ulm, Stadtkreis;127,3;0,3;21,3;20,0;3,7;35,5;24,7;41,9
+2019;08425;      Alb-Donau-Kreis, Landkreis;82,5;2,3;26,9;26,1;6,8;18,5;7,9;20,2
+2019;08426;      Biberach, Landkreis;117,1;3,0;47,5;45,9;8,5;19,6;11,6;26,8
+2019;08435;      Bodenseekreis, Landkreis;128,0;3,7;42,8;41,9;6,4;27,9;14,0;33,3
+2019;08436;      Ravensburg, Landkreis;168,5;5,2;43,1;41,8;9,7;37,2;22,0;51,3
+2019;08437;      Sigmaringen, Landkreis;70,4;1,5;21,5;20,7;4,5;14,0;5,7;23,2
+2019;09;  Bayern;7728,5;124,9;1661,9;1574,7;447,7;1969,5;1273,7;2250,7
+2019;091;    Oberbayern, Regierungsbezirk;2937,1;34,9;482,3;450,4;148,3;814,5;614,4;842,7
+2019;09161;      Ingolstadt;127,8;0,3;52,4;51,7;3,6;22,0;20,4;29,1
+2019;09162;      München, Landeshauptstadt;1151,4;0,8;124,5;112,4;29,4;308,8;330,7;357,2
+2019;09163;      Rosenheim;50,7;0,1;5,4;4,8;2,2;12,1;9,0;21,8
+2019;09171;      Altötting, Landkreis;64,2;1,8;21,6;19,1;5,7;11,7;7,4;15,9
+2019;09172;      Berchtesgadener Land, Landkreis;55,7;1,1;8,5;7,8;3,6;16,0;5,8;20,7
+2019;09173;      Bad Tölz-Wolfratshausen, Landkreis;57,4;1,6;11,7;11,1;5,3;13,7;7,2;17,9
+2019;09174;      Dachau, Landkreis;64,0;1,4;9,6;8,8;5,4;18,0;10,4;19,3
+2019;09175;      Ebersberg, Landkreis;59,7;1,6;8,5;8,1;4,0;20,3;8,6;16,7
+2019;09176;      Eichstätt, Landkreis;59,2;1,5;14,1;13,2;4,7;13,7;9,8;15,3
+2019;09177;      Erding, Landkreis;61,1;2,4;7,2;6,1;4,9;19,3;9,2;18,1
+2019;09178;      Freising, Landkreis;113,6;1,8;13,2;12,1;5,3;54,5;16,0;22,7
+2019;09179;      Fürstenfeldbruck, Landkreis;79,7;0,8;9,5;8,6;7,3;24,4;13,0;24,7
+2019;09180;      Garmisch-Partenkirchen, Landkreis;45,9;0,7;3,8;3,5;2,7;13,3;4,8;20,5
+2019;09181;      Landsberg am Lech, Landkreis;57,1;1,5;12,3;11,9;3,8;14,2;8,1;17,2
+2019;09182;      Miesbach, Landkreis;54,2;1,8;9,1;8,7;4,0;17,5;7,3;14,6
+2019;09183;      Mühldorf a.Inn, Landkreis;58,2;2,1;15,0;14,4;4,9;14,0;5,9;16,4
+2019;09184;      München, Landkreis;301,2;0,9;40,7;38,6;14,5;106,3;81,3;57,5
+2019;09185;      Neuburg-Schrobenhausen, Landkreis;45,8;1,3;10,8;9,8;6,1;9,1;5,5;13,0
+2019;09186;      Pfaffenhofen a.d.Ilm, Landkreis;60,4;1,7;14,6;13,4;4,7;16,2;7,7;15,5
+2019;09187;      Rosenheim, Landkreis;124,9;3,9;26,7;25,3;9,9;31,8;14,8;37,8
+2019;09188;      Starnberg, Landkreis;73,7;0,7;12,9;12,4;4,0;18,3;14,5;23,3
+2019;09189;      Traunstein, Landkreis;96,8;3,1;28,1;27,1;7,3;22,2;9,5;26,7
+2019;09190;      Weilheim-Schongau, Landkreis;74,5;2,1;22,1;21,3;5,0;17,1;7,6;20,6
+2019;092;    Niederbayern, Regierungsbezirk;689,1;21,5;171,4;163,6;57,8;160,2;82,0;196,3
+2019;09261;      Landshut;56,1;0,2;7,1;6,3;1,5;12,5;10,1;24,7
+2019;09262;      Passau;54,9;0,1;7,0;6,5;2,6;15,1;7,9;22,3
+2019;09263;      Straubing;41,5;0,2;7,3;6,6;1,4;11,7;5,5;15,4
+2019;09271;      Deggendorf, Landkreis;71,0;1,8;15,7;14,6;8,0;16,2;8,6;20,7
+2019;09272;      Freyung-Grafenau, Landkreis;38,9;1,2;9,9;9,7;4,3;9,2;2,6;11,7
+2019;09273;      Kelheim, Landkreis;56,8;2,0;14,9;14,2;5,7;12,7;5,8;15,8
+2019;09274;      Landshut, Landkreis;70,8;3,2;18,0;17,0;8,3;16,4;12,2;12,7
+2019;09275;      Passau, Landkreis;90,3;3,2;24,9;23,7;8,1;23,4;7,8;23,0
+2019;09276;      Regen, Landkreis;41,3;1,1;11,5;11,1;3,9;9,3;4,4;11,2
+2019;09277;      Rottal-Inn, Landkreis;59,8;3,0;13,2;12,5;6,3;14,0;6,8;16,5
+2019;09278;      Straubing-Bogen, Landkreis;41,2;2,7;11,1;10,9;4,5;7,3;3,7;11,9
+2019;09279;      Dingolfing-Landau, Landkreis;66,4;2,8;30,9;30,4;3,2;12,5;6,5;10,5
+2019;093;    Oberpfalz, Regierungsbezirk;654,8;13,8;173,9;166,8;45,2;148,2;82,6;191,1
+2019;09361;      Amberg;37,0;0,1;10,9;10,7;1,6;6,9;4,6;12,9
+2019;09362;      Regensburg;159,2;0,4;34,2;32,6;3,4;36,1;27,5;57,6
+2019;09363;      Weiden i.d.OPf.;41,4;0,2;6,8;6,5;1,6;12,6;6,7;13,5
+2019;09371;      Amberg-Sulzbach, Landkreis;41,1;1,3;10,8;9,7;3,8;9,5;3,6;12,0
+2019;09372;      Cham, Landkreis;76,4;2,6;23,3;22,7;8,4;16,2;6,8;19,2
+2019;09373;      Neumarkt i.d.OPf., Landkreis;70,1;1,6;18,4;17,9;8,8;15,1;9,0;17,3
+2019;09374;      Neustadt a.d.Waldnaab, Landkreis;42,6;1,6;15,2;14,6;3,2;7,6;3,5;11,4
+2019;09375;      Regensburg, Landkreis;70,5;2,2;17,0;16,3;6,3;19,0;9,1;16,9
+2019;09376;      Schwandorf, Landkreis;79,5;2,2;24,5;23,2;4,7;18,1;8,7;21,3
+2019;09377;      Tirschenreuth, Landkreis;37,0;1,6;12,9;12,6;3,6;7,1;3,0;8,9
+2019;094;    Oberfranken, Regierungsbezirk;596,1;8,3;156,7;149,1;33,5;140,3;73,1;184,2
+2019;09461;      Bamberg;76,9;0,2;17,2;16,4;1,8;17,8;9,8;30,1
+2019;09462;      Bayreuth;67,0;0,2;8,7;7,1;2,6;13,8;11,4;30,3
+2019;09463;      Coburg;42,1;0,1;9,9;9,3;1,1;7,0;11,2;12,8
+2019;09464;      Hof;34,3;0,1;4,7;4,4;0,9;9,7;5,2;13,8
+2019;09471;      Bamberg, Landkreis;55,2;1,1;14,8;14,5;5,8;16,7;4,5;12,4
+2019;09472;      Bayreuth, Landkreis;35,4;1,3;8,8;8,2;2,9;9,6;3,9;8,8
+2019;09473;      Coburg, Landkreis;37,1;0,7;14,0;13,5;2,5;9,0;2,4;8,5
+2019;09474;      Forchheim, Landkreis;46,7;0,9;12,8;12,2;3,2;11,3;5,1;13,3
+2019;09475;      Hof, Landkreis;49,8;1,1;17,8;17,2;3,4;12,8;3,4;11,2
+2019;09476;      Kronach, Landkreis;35,0;0,6;14,1;13,8;1,8;6,0;3,9;8,5
+2019;09477;      Kulmbach, Landkreis;38,2;0,8;10,8;10,2;3,1;7,8;3,8;11,8
+2019;09478;      Lichtenfels, Landkreis;37,8;0,5;9,8;9,5;2,4;10,8;3,1;11,3
+2019;09479;      Wunsiedel i.Fichtelgebirge, Landkreis;40,6;0,7;13,2;12,7;1,9;7,9;5,4;11,4
+2019;095;    Mittelfranken, Regierungsbezirk;1060,0;11,7;231,2;219,5;51,7;273,5;182,2;309,7
+2019;09561;      Ansbach;37,5;0,3;7,1;6,9;0,8;7,7;5,1;16,5
+2019;09562;      Erlangen;111,7;0,2;35,2;33,9;2,1;19,3;17,2;37,7
+2019;09563;      Fürth;64,6;0,3;11,3;10,8;2,9;18,4;11,4;20,3
+2019;09564;      Nürnberg;402,9;1,5;53,1;48,5;14,7;119,1;100,6;114,0
+2019;09565;      Schwabach;23,0;0,1;5,8;5,4;1,2;4,8;4,0;7,2
+2019;09571;      Ansbach, Landkreis;85,5;2,8;27,2;26,3;8,2;18,3;6,9;22,1
+2019;09572;      Erlangen-Höchstadt, Landkreis;67,5;0,7;20,6;20,4;2,8;22,2;6,9;14,3
+2019;09573;      Fürth, Landkreis;37,0;0,5;8,9;8,3;3,6;8,9;4,6;10,6
+2019;09574;      Nürnberger Land, Landkreis;78,2;0,9;21,4;20,8;4,7;18,5;9,5;23,2
+2019;09575;      Neustadt a.d.Aisch-Bad Windsheim, Landkreis;48,7;2,0;12,3;11,9;3,5;11,3;6,2;13,3
+2019;09576;      Roth, Landkreis;57,4;1,3;15,3;14,6;4,5;14,9;5,5;15,9
+2019;09577;      Weißenburg-Gunzenhausen, Landkreis;45,9;1,2;13,0;11,8;2,7;10,0;4,5;14,5
+2019;096;    Unterfranken, Regierungsbezirk;744,8;11,5;176,9;168,4;42,4;180,7;99,0;234,3
+2019;09661;      Aschaffenburg;62,2;0,1;11,8;10,7;2,4;17,5;11,2;19,3
+2019;09662;      Schweinfurt;65,4;0,0;25,7;25,0;2,2;11,3;8,1;18,0
+2019;09663;      Würzburg;128,9;0,4;9,5;8,4;2,5;32,2;21,8;62,5
+2019;09671;      Aschaffenburg, Landkreis;74,8;0,7;19,4;18,4;5,7;22,3;11,6;15,1
+2019;09672;      Bad Kissingen, Landkreis;54,7;0,9;7,9;7,3;5,5;9,9;6,3;24,1
+2019;09673;      Rhön-Grabfeld, Landkreis;43,8;0,9;13,4;12,9;2,9;8,6;4,3;13,7
+2019;09674;      Haßberge, Landkreis;42,0;0,9;15,3;14,7;2,5;8,0;4,0;11,2
+2019;09675;      Kitzingen, Landkreis;49,2;2,5;11,9;11,5;2,6;13,9;4,8;13,4
+2019;09676;      Miltenberg, Landkreis;62,2;0,7;20,6;20,2;4,4;14,6;7,6;14,2
+2019;09677;      Main-Spessart, Landkreis;63,6;1,1;24,0;23,3;4,0;12,2;5,9;16,3
+2019;09678;      Schweinfurt, Landkreis;38,2;1,3;6,1;5,3;3,2;12,1;4,1;11,5
+2019;09679;      Würzburg, Landkreis;60,0;1,9;11,2;10,7;4,6;18,1;9,3;14,9
+2019;097;    Schwaben, Regierungsbezirk;1046,7;23,3;269,5;257,0;68,8;252,2;140,4;292,5
+2019;09761;      Augsburg;199,1;0,3;34,5;31,0;7,0;43,1;39,7;74,5
+2019;09762;      Kaufbeuren;26,5;0,1;4,3;4,0;1,5;5,4;4,3;11,0
+2019;09763;      Kempten (Allgäu);51,9;0,4;7,4;6,5;1,4;16,6;9,9;16,2
+2019;09764;      Memmingen;39,5;0,3;10,9;10,6;2,7;9,2;5,9;10,6
+2019;09771;      Aichach-Friedberg, Landkreis;55,5;1,9;13,6;13,3;5,4;15,1;5,9;13,5
+2019;09772;      Augsburg, Landkreis;110,8;2,0;25,5;24,5;8,7;31,3;16,2;27,0
+2019;09773;      Dillingen a.d.Donau, Landkreis;48,2;1,6;14,9;14,2;3,6;9,5;4,3;14,4
+2019;09774;      Günzburg, Landkreis;71,2;2,2;20,6;19,4;5,5;14,3;6,8;21,8
+2019;09775;      Neu-Ulm, Landkreis;90,2;0,9;27,4;26,8;4,5;25,1;12,1;20,3
+2019;09776;      Lindau (Bodensee), Landkreis;45,7;1,4;15,0;14,4;2,8;9,7;5,4;11,5
+2019;09777;      Ostallgäu, Landkreis;70,9;3,3;21,2;20,5;6,6;16,9;5,5;17,3
+2019;09778;      Unterallgäu, Landkreis;74,4;3,3;26,8;26,1;7,5;15,4;5,7;15,8
+2019;09779;      Donau-Ries, Landkreis;83,7;2,5;28,5;27,7;5,4;18,4;10,0;18,9
+2019;09780;      Oberallgäu, Landkreis;79,1;3,1;19,0;18,0;6,2;22,2;9,0;19,6
+2019;10;  Saarland;534,9;2,4;111,3;104,5;27,7;129,5;85,3;178,7
+2019;10041;      Saarbrücken, Regionalverband;211,2;0,4;31,8;28,1;7,6;51,2;43,7;76,6
+2019;10041100;      Saarbrücken, Landeshauptstadt;.;.;.;.;.;.;.;.
+2019;10042;      Merzig-Wadern, Landkreis;44,9;0,6;9,1;8,7;3,3;12,2;5,2;14,5
+2019;10043;      Neunkirchen, Landkreis;55,7;0,2;10,2;9,5;4,6;13,2;6,9;20,6
+2019;10044;      Saarlouis, Landkreis;98,6;0,5;26,9;26,1;5,1;23,4;14,7;27,9
+2019;10045;      Saarpfalz-Kreis;85,4;0,3;23,4;22,5;4,7;19,5;10,7;26,9
+2019;10046;      St. Wendel, Landkreis;39,1;0,4;9,8;9,6;2,4;10,0;4,2;12,3
+2019;11;  Berlin;2066,7;0,7;136,9;116,8;90,4;547,0;495,3;796,4
+2019;11001001;      Berlin-Mitte;.;.;.;.;.;.;.;.
+2019;11002002;      Berlin-Friedrichshain-Kreuzberg;.;.;.;.;.;.;.;.
+2019;11003003;      Berlin-Pankow;.;.;.;.;.;.;.;.
+2019;11004004;      Berlin-Charlottenburg-Wilmersdorf;.;.;.;.;.;.;.;.
+2019;11005005;      Berlin-Spandau;.;.;.;.;.;.;.;.
+2019;11006006;      Berlin-Steglitz-Zehlendorf;.;.;.;.;.;.;.;.
+2019;11007007;      Berlin-Tempelhof-Schöneberg;.;.;.;.;.;.;.;.
+2019;11008008;      Berlin-Neukölln;.;.;.;.;.;.;.;.
+2019;11009009;      Berlin-Treptow-Köpenick;.;.;.;.;.;.;.;.
+2019;11010010;      Berlin-Marzahn-Hellersdorf;.;.;.;.;.;.;.;.
+2019;11011011;      Berlin-Lichtenberg;.;.;.;.;.;.;.;.
+2019;11012012;      Berlin-Reinickendorf;.;.;.;.;.;.;.;.
+2019;12;  Brandenburg;1129,6;28,5;153,7;130,0;96,5;283,2;181,5;386,1
+2019;12051;      Brandenburg an der Havel, kreisfreie Stadt;39,4;0,3;6,4;5,8;2,0;7,4;5,9;17,4
+2019;12052;      Cottbus, kreisfreie Stadt;61,9;0,2;3,6;2,1;3,1;14,4;13,2;27,3
+2019;12053;      Frankfurt (Oder), kreisfreie Stadt;38,4;0,3;1,6;1,0;2,3;7,3;8,4;18,5
+2019;12054;      Potsdam, kreisfreie Stadt;116,9;0,1;4,0;2,0;3,6;24,3;31,1;53,7
+2019;12060;      Barnim, Landkreis;68,5;1,1;7,0;5,8;6,7;18,0;9,3;26,3
+2019;12061;      Dahme-Spreewald, Landkreis;78,5;2,2;9,3;8,0;7,0;27,5;12,5;20,1
+2019;12062;      Elbe-Elster, Landkreis;44,6;2,0;9,3;8,4;4,2;9,1;4,7;15,3
+2019;12063;      Havelland, Landkreis;59,9;1,6;9,9;8,7;5,4;19,6;6,6;16,8
+2019;12064;      Märkisch-Oderland, Landkreis;69,9;2,3;6,9;5,5;8,5;18,6;10,2;23,4
+2019;12065;      Oberhavel, Landkreis;79,6;1,6;13,5;12,0;7,8;20,2;11,6;24,8
+2019;12066;      Oberspreewald-Lausitz, Landkreis;49,6;1,0;9,7;8,7;5,5;11,3;7,3;14,9
+2019;12067;      Oder-Spree, Landkreis;73,1;1,5;12,0;10,2;8,2;18,0;8,2;25,2
+2019;12068;      Ostprignitz-Ruppin, Landkreis;46,9;2,6;7,5;6,7;4,0;9,8;5,3;17,7
+2019;12069;      Potsdam-Mittelmark, Landkreis;90,0;3,3;9,5;8,3;8,8;23,1;19,9;25,4
+2019;12070;      Prignitz, Landkreis;34,9;2,1;6,7;6,2;3,0;7,0;4,8;11,4
+2019;12071;      Spree-Neiße, Landkreis;45,4;1,9;11,4;7,4;5,6;9,9;4,2;12,4
+2019;12072;      Teltow-Fläming, Landkreis;80,4;1,9;17,5;16,4;6,6;25,4;11,7;17,2
+2019;12073;      Uckermark, Landkreis;51,8;2,5;7,9;6,8;4,2;12,2;6,5;18,5
+2019;13;  Mecklenburg-Vorpommern;758,2;22,6;96,9;84,1;48,7;195,5;116,9;277,7
+2019;13001;      Kreisfreie Stadt Greifswald, Hansestadt;-;-;-;-;-;-;-;-
+2019;13002;      Kreisfreie Stadt Neubrandenburg, Stadt;-;-;-;-;-;-;-;-
+2019;13003;      Rostock, Hanse- und Universitätsstadt, Kreisfreie Stadt;120,5;0,1;12,7;10,7;3,7;29,8;27,1;47,1
+2019;13004;      Schwerin, Landeshauptstadt, kreisfreie Stadtk;65,2;0,1;6,0;4,6;2,9;14,7;13,7;27,8
+2019;13005;      Kreisfreie Stadt Stralsund, Hansestadt;-;-;-;-;-;-;-;-
+2019;13006;      Kreisfreie Stadt Wismar, Hansestadt;-;-;-;-;-;-;-;-
+2019;13051;      Landkreis Bad Doberan;-;-;-;-;-;-;-;-
+2019;13052;      Landkreis Demmin;-;-;-;-;-;-;-;-
+2019;13053;      Landkreis Güstrow;-;-;-;-;-;-;-;-
+2019;13054;      Landkreis Ludwigslust;-;-;-;-;-;-;-;-
+2019;13055;      Landkreis Mecklenburg-Strelitz;-;-;-;-;-;-;-;-
+2019;13056;      Landkreis Müritz;-;-;-;-;-;-;-;-
+2019;13057;      Landkreis Nordvorpommern;-;-;-;-;-;-;-;-
+2019;13058;      Landkreis Nordwestmecklenburg;-;-;-;-;-;-;-;-
+2019;13059;      Landkreis Ostvorpommern;-;-;-;-;-;-;-;-
+2019;13060;      Landkreis Parchim;-;-;-;-;-;-;-;-
+2019;13061;      Landkreis Rügen;-;-;-;-;-;-;-;-
+2019;13062;      Landkreis Uecker-Randow;-;-;-;-;-;-;-;-
+2019;13071;      Landkreis Mecklenburgische Seenplatte;122,7;4,3;15,4;13,2;8,7;31,9;17,0;45,3
+2019;13072;      Landkreis Rostock;93,1;4,2;12,3;11,3;8,0;27,3;11,5;29,8
+2019;13073;      Landkreis Vorpommern-Rügen;100,0;3,2;8,1;6,6;6,5;30,3;13,8;38,0
+2019;13074;      Landkreis Nordwestmecklenburg;62,7;2,3;14,0;12,9;5,4;14,6;7,8;18,5
+2019;13075;      Landkreis Vorpommern-Greifswald;107,7;3,2;10,0;7,7;6,3;26,3;16,5;45,3
+2019;13076;      Landkreis Ludwigslust-Parchim;86,3;5,1;18,3;17,1;7,2;20,5;9,3;25,9
+2019;14;  Sachsen;2072,2;26,9;397,3;365,4;157,9;489,8;337,8;662,5
+2019;141;    Chemnitz, Regierungsbezirk;-;-;-;-;-;-;-;-
+2019;14161;      Chemnitz, kreisfreie Stadt;-;-;-;-;-;-;-;-
+2019;14166;      Plauen, kreisfreie Stadt;-;-;-;-;-;-;-;-
+2019;14167;      Zwickau, kreisfreie Stadt;-;-;-;-;-;-;-;-
+2019;14171;      Annaberg, Landkreis;-;-;-;-;-;-;-;-
+2019;14173;      Chemnitzer Land, Landkreis;-;-;-;-;-;-;-;-
+2019;14177;      Freiberg, Landkreis;-;-;-;-;-;-;-;-
+2019;14178;      Vogtlandkreis;-;-;-;-;-;-;-;-
+2019;14181;      Mittlerer Erzgebirgskreis;-;-;-;-;-;-;-;-
+2019;14182;      Mittweida, Landkreis;-;-;-;-;-;-;-;-
+2019;14188;      Stollberg, Landkreis;-;-;-;-;-;-;-;-
+2019;14191;      Aue-Schwarzenberg, Landkreis;-;-;-;-;-;-;-;-
+2019;14193;      Zwickauer Land, Landkreis;-;-;-;-;-;-;-;-
+2019;142;    Dresden, Regierungsbezirk;-;-;-;-;-;-;-;-
+2019;14262;      Dresden, kreisfreie Stadt;-;-;-;-;-;-;-;-
+2019;14263;      Görlitz, kreisfreie Stadt;-;-;-;-;-;-;-;-
+2019;14264;      Hoyerswerda, kreisfreie Stadt;-;-;-;-;-;-;-;-
+2019;14272;      Bautzen, Landkreis;-;-;-;-;-;-;-;-
+2019;14280;      Meißen, Landkreis;-;-;-;-;-;-;-;-
+2019;14284;      Niederschlesischer Oberlausitzkreis;-;-;-;-;-;-;-;-
+2019;14285;      Riesa-Großenhain, Landkreis;-;-;-;-;-;-;-;-
+2019;14286;      Löbau-Zittau, Landkreis;-;-;-;-;-;-;-;-
+2019;14287;      Sächsische Schweiz, Landkreis;-;-;-;-;-;-;-;-
+2019;14290;      Weißeritzkreis;-;-;-;-;-;-;-;-
+2019;14292;      Kamenz, Landkreis;-;-;-;-;-;-;-;-
+2019;143;    Leipzig, Regierungsbezirk;-;-;-;-;-;-;-;-
+2019;14365;      Leipzig, kreisfreie Stadt;-;-;-;-;-;-;-;-
+2019;14374;      Delitzsch, Landkreis;-;-;-;-;-;-;-;-
+2019;14375;      Döbeln, Landkreis;-;-;-;-;-;-;-;-
+2019;14379;      Leipziger Land, Landkreis;-;-;-;-;-;-;-;-
+2019;14383;      Muldentalkreis;-;-;-;-;-;-;-;-
+2019;14389;      Torgau-Oschatz, Landkreis;-;-;-;-;-;-;-;-
+2019;145;    Chemnitz, Stat. Region;707,1;10,1;172,6;162,8;58,7;155,0;96,3;214,4
+2019;14511;      Chemnitz, Stadt;148,6;0,3;21,1;18,3;8,4;35,4;33,6;49,8
+2019;14521;      Erzgebirgskreis;153,2;2,7;45,9;44,0;15,1;30,2;14,0;45,2
+2019;14522;      Mittelsachsen, Landkreis;140,8;3,7;36,0;34,1;13,3;30,6;15,7;41,4
+2019;14523;      Vogtlandkreis;106,1;1,8;27,6;26,3;9,6;23,5;11,4;32,2
+2019;14524;      Zwickau, Landkreis;158,3;1,6;42,1;40,2;12,2;35,2;21,5;45,7
+2019;146;    Dresden, Stat. Region;820,3;11,2;155,8;142,6;59,2;186,4;130,6;277,1
+2019;14612;      Dresden, Stadt;340,9;0,6;40,5;35,6;15,8;81,8;75,4;126,9
+2019;14625;      Bautzen, Landkreis;145,1;2,7;36,6;34,7;12,4;32,4;18,2;42,8
+2019;14626;      Görlitz, Landkreis;115,4;2,2;26,9;23,6;9,5;22,3;12,4;42,1
+2019;14627;      Meißen, Landkreis;115,0;2,9;27,3;25,7;10,5;28,0;14,2;32,1
+2019;14628;      Sächsische Schweiz-Osterzgebirge, Landkreis;103,8;2,8;24,4;23,0;11,1;22,0;10,4;33,2
+2019;147;    Leipzig, Stat. Region;544,9;5,5;68,9;60,1;40,0;148,4;111,0;171,0
+2019;14713;      Leipzig, Stadt;347,3;0,3;32,3;28,3;17,1;94,0;90,4;113,2
+2019;14729;      Leipzig, Landkreis;103,6;2,2;19,4;16,6;13,2;25,8;11,3;31,6
+2019;14730;      Nordsachsen, Landkreis;94,1;3,0;17,1;15,2;9,8;28,6;9,3;26,3
+2019;15;  Sachsen-Anhalt;1005,1;19,8;182,9;162,2;78,4;235,4;149,1;339,6
+2019;15001;      Dessau-Roßlau, kreisfreie Stadt;42,1;0,3;7,3;6,8;2,8;7,6;7,5;16,5
+2019;15002;      Halle (Saale), kreisfreie Stadt;125,5;0,1;7,5;6,1;6,4;27,9;28,3;55,2
+2019;15003;      Magdeburg, kreisfreie Stadt;138,2;0,1;11,7;9,6;7,8;30,2;31,7;56,6
+2019;15081;      Altmarkkreis Salzwedel;35,1;2,0;6,5;5,7;3,3;8,1;3,8;11,4
+2019;15082;      Anhalt-Bitterfeld, Landkreis;70,2;1,7;19,3;17,1;4,8;16,4;8,7;19,2
+2019;15083;      Börde, Landkreis;74,5;2,5;20,1;18,8;5,6;22,3;7,1;16,9
+2019;15084;      Burgenlandkreis;73,6;1,6;13,4;11,3;6,9;18,0;10,2;23,4
+2019;15085;      Harz, Landkreis;91,9;1,6;20,3;18,8;7,6;22,6;9,7;30,1
+2019;15086;      Jerichower Land, Landkreis;37,6;1,5;7,4;6,7;4,2;7,6;4,0;12,9
+2019;15087;      Mansfeld-Südharz, Landkreis;52,2;1,4;11,4;10,3;4,8;12,1;5,0;17,6
+2019;15088;      Saalekreis;84,7;1,6;19,4;15,9;8,2;24,9;12,0;18,5
+2019;15089;      Salzlandkreis;79,5;1,3;18,6;16,5;5,9;15,7;9,7;28,4
+2019;15090;      Stendal, Landkreis;46,5;2,2;7,2;6,6;4,9;10,0;5,1;17,2
+2019;15091;      Wittenberg, Landkreis;53,6;1,9;13,0;12,1;5,0;11,9;6,2;15,6
+2019;151;    Dessau, Stat. Region;-;-;-;-;-;-;-;-
+2019;15101;      Dessau, kreisfreie Stadt;-;-;-;-;-;-;-;-
+2019;15151;      Anhalt-Zerbst, Kreis;-;-;-;-;-;-;-;-
+2019;15153;      Bernburg, Kreis;-;-;-;-;-;-;-;-
+2019;15154;      Bitterfeld, Kreis;-;-;-;-;-;-;-;-
+2019;15159;      Köthen, Kreis;-;-;-;-;-;-;-;-
+2019;15171;      Wittenberg, Kreis;-;-;-;-;-;-;-;-
+2019;152;    Halle, Stat. Region;-;-;-;-;-;-;-;-
+2019;15202;      Halle (Saale), kreisfreie Stadt;-;-;-;-;-;-;-;-
+2019;15256;      Burgenlandkreis;-;-;-;-;-;-;-;-
+2019;15260;      Mansfelder Land, Kreis;-;-;-;-;-;-;-;-
+2019;15261;      Merseburg-Querfurt, Kreis;-;-;-;-;-;-;-;-
+2019;15265;      Saalkreis;-;-;-;-;-;-;-;-
+2019;15266;      Sangerhausen, Kreis;-;-;-;-;-;-;-;-
+2019;15268;      Weißenfels, Kreis;-;-;-;-;-;-;-;-
+2019;153;    Magdeburg, Stat. Region;-;-;-;-;-;-;-;-
+2019;15303;      Magdeburg, kreisfreie Stadt;-;-;-;-;-;-;-;-
+2019;15352;      Aschersleben-Staßfurt, Kreis;-;-;-;-;-;-;-;-
+2019;15355;      Bördekreis;-;-;-;-;-;-;-;-
+2019;15357;      Halberstadt, Kreis;-;-;-;-;-;-;-;-
+2019;15358;      Jerichower Land, Kreis;-;-;-;-;-;-;-;-
+2019;15362;      Ohrekreis;-;-;-;-;-;-;-;-
+2019;15363;      Stendal, Kreis;-;-;-;-;-;-;-;-
+2019;15364;      Quedlinburg, Kreis;-;-;-;-;-;-;-;-
+2019;15367;      Schönebeck, Kreis;-;-;-;-;-;-;-;-
+2019;15369;      Wernigerode, Kreis;-;-;-;-;-;-;-;-
+2019;15370;      Altmarkkreis Salzwedel, Kreis;-;-;-;-;-;-;-;-
+2019;16;  Thüringen;1044,7;18,1;236,8;220,7;74,5;224,5;154,5;336,3
+2019;16051;      Erfurt, kreisfreie Stadt;143,2;0,6;10,6;7,9;6,4;37,6;32,8;55,1
+2019;16052;      Gera, kreisfreie Stadt;48,5;0,1;5,5;4,8;2,9;11,1;9,3;19,6
+2019;16053;      Jena, kreisfreie Stadt;73,1;0,0;11,4;10,2;2,9;13,5;15,8;29,5
+2019;16054;      Suhl, kreisfreie Stadt;20,9;0,0;3,0;2,7;0,9;5,5;3,6;7,9
+2019;16055;      Weimar, kreisfreie Stadt;34,3;0,0;2,9;2,4;1,4;7,4;6,3;16,2
+2019;16056;      Eisenach, kreisfreie Stadt;27,5;0,1;6,9;6,5;1,1;5,7;5,3;8,4
+2019;16061;      Eichsfeld, Kreis;46,2;0,8;13,1;12,5;4,9;8,8;6,2;12,3
+2019;16062;      Nordhausen, Kreis;38,8;0,6;8,3;7,6;3,1;8,1;4,9;13,8
+2019;16063;      Wartburgkreis;54,0;1,3;18,8;18,0;3,9;10,2;6,6;13,3
+2019;16064;      Unstrut-Hainich-Kreis;47,0;1,2;9,3;8,5;4,2;9,8;5,9;16,6
+2019;16065;      Kyffhäuserkreis;28,1;0,9;6,1;5,6;2,2;5,2;3,1;10,5
+2019;16066;      Schmalkalden-Meiningen, Kreis;58,4;1,0;17,7;16,8;4,4;10,5;7,8;17,0
+2019;16067;      Gotha, Kreis;64,7;1,1;17,7;16,9;4,4;16,0;7,9;17,5
+2019;16068;      Sömmerda, Kreis;29,8;1,3;9,0;8,6;2,7;6,5;3,0;7,2
+2019;16069;      Hildburghausen, Kreis;24,8;0,8;8,6;8,2;2,2;4,1;2,5;6,6
+2019;16070;      Ilm-Kreis;50,2;0,8;15,4;14,7;3,4;11,3;6,1;13,3
+2019;16071;      Weimarer Land, Kreis;33,7;1,0;6,8;6,4;4,0;7,9;3,6;10,4
+2019;16072;      Sonneberg, Kreis;26,8;0,4;10,5;10,2;1,6;4,1;3,5;6,6
+2019;16073;      Saalfeld-Rudolstadt, Kreis;46,7;0,9;13,1;12,1;3,3;8,7;5,7;15,0
+2019;16074;      Saale-Holzland-Kreis;34,7;1,4;9,1;8,8;3,4;8,0;3,8;9,1
+2019;16075;      Saale-Orla-Kreis;38,6;1,5;13,4;12,9;3,5;6,6;3,5;10,1
+2019;16076;      Greiz, Kreis;39,1;1,2;10,1;9,5;4,6;9,6;3,6;10,1
+2019;16077;      Altenburger Land, Kreis;35,7;0,8;9,5;8,8;3,0;8,2;3,8;10,3
+__________
+Berechnungsstand des Statistischen Bundesamtes: August 2020
+"zu ""gesamte Tabelle"":
+Baden-Württemberg (Berichtsjahr 1995-2010): Gebietsstand
+01.01.1979
+Baden-Württemberg (ab Berichtsjahr 2011): Gebietsstand
+01.01.2011
+Niedersachsen (ab Berichtsjahr 2016): Gebietsstand
+01.11.2016"
+"© Statistische Ämter des Bundes und der Länder, Deutschland, 2022.
+Dieses Werk ist lizenziert unter der Datenlizenz Deutschland
+- Namensnennung - Version 2.0."
+Stand: 12.02.2022 / 10:46:49
