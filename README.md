@@ -1,4 +1,4 @@
-Projektabgabe im Modul "Python for Data Science
+Projektabgabe im Modul "Python for Data Science"
 
 Immer wieder wird die Kriminalität in Deutschland in Medien und Gesellschaft thematisiert und Brennpunkte beleuchtet. Teilweise ist jedoch nicht hinreichend geklärt, welche Einflussfaktoren auf eine hohe Kriminalitätsrate oder bestimmte Straftaten wirken. Das Ziel dieses explorativen Python Projekts ist es, anhand der Kriminalitätsstatistik des Jahres 2020 , jährlich bereitgestellt durch das Bundeskriminalamt, mögliche Einflussfaktoren und Abhängigkeiten zur Kriminalitätsrate/Anzahl erfasster Straftaten auf Kreisgebietsebene (der Bundesrepublik Deutschland) aus gesellschaftlicher und sozioökonomischer Sicht zu betrachten und zu bewerten. 
 
